@@ -13,7 +13,7 @@
 </head>
 <body>
     <nav>
-        <div class="logo">TapFoods</div>
+        <div class="logo">Divya Online Foods</div>
         <ul class="nav-links">
             <li><a href="${pageContext.request.contextPath}/home">Home</a></li>
             <li><a href="${pageContext.request.contextPath}/JspFiles/profile.jsp"><i class="fas fa-user"></i></a></li>

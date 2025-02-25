@@ -16,7 +16,7 @@
 </head>
 <body>
 	<nav>
-		<div class="logo">TapFoods</div>
+		<div class="logo">Divya Online Foods</div>
 		<ul class="nav-links">
 			<li><a href="home">Home</a></li>
 			<li><a href="JspFiles/profile.jsp"><i class="fas fa-user"></i></a></li>

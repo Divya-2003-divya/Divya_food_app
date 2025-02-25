@@ -14,7 +14,7 @@
 </head>
 <body>
     <nav>
-        <div class="logo">TapFoods</div>
+        <div class="logo">Divya Online Foods</div>
         <div class="search-bar">
             <input type="text" placeholder="Search for restaurants...">
             <button><i class="fas fa-search"></i></button>
@@ -28,7 +28,7 @@
     </nav>
 
     <section class="welcome-message">
-        <h1>Welcome to TapFoods!</h1>
+        <h1>Welcome to Divya Online Foods!</h1>
         <p>Your one-stop destination for discovering the best restaurants and delicious cuisines. Order now and enjoy your meal from the comfort of your home!</p>
     </section>
 
@@ -73,7 +73,7 @@
     <footer class="footer">
         <div class="footer-container">
             <div class="footer-logo">
-                <h2>TapFoods</h2>
+                <h2>Divya Online Foods</h2>
             </div>
             <div class="footer-links">
                 <h3>Quick Links</h3>
@@ -86,7 +86,7 @@
             </div>
             <div class="footer-contact">
                 <h3>Contact Us</h3>
-                <p>Email: support@tapfoods.com</p>
+                <p>Email: divya@onlinefoods.com</p>
                 <p>Phone: +1-800-FOODIE</p>
             </div>
         </div>

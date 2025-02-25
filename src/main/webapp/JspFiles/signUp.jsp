@@ -56,7 +56,7 @@
     </main>
 
     <footer class="footer">
-        <p class="footer-bottom">&copy; 2025 TapFoods. All rights reserved.</p>
+        <p class="footer-bottom">&copy; 2025 Divya Online Foods. All rights reserved.</p>
     </footer>
 </body>
 </html>
